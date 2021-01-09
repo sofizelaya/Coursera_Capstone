@@ -1,1 +1,3 @@
-I will use the location of 5 different citys around the world and the location of sushi restaurants
+I will fetch the data from  Foursquare API.
+I will use it to identify the venue, the ratings and all relevant information for the customer.
+I will use everthing learnt in the Foursquare module
