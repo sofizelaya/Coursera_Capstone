@@ -1,1 +1,8 @@
-Sushi restaurants in the most important citys around the world
+The aim of this project is to identify restaurants in important different neighbourhoods of Buenos Aires, Argentina.
+I will be use Foursquare API to help customers to choose the venue that best suits them. 
+When a person wants to eat sushi and they are in another point of the city different from where they live they can look at the raitings and the price that fits to their budget.
+
+The factors i will be focusing on are:
+identifying the neighbourhoods in Buenos Aires
+Finding sushi restaurants
+Exploring restaurants that suits the visitor
